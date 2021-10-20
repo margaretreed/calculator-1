@@ -51,9 +51,10 @@ def add_mult(num1, num2, num3):
     """Add 3 numbers."""
 
     return num1 + num2 + num3
-
-
+    
 def add_cubes(num1, num2):
     """Return the sum of the cubes of num1 and num2."""
     
-    return cube(num1=num1) + cube(num1=num2)
+    return cube(num1=num1) + cube(num1=num2)   
+
+ 
